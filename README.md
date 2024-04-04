@@ -1,10 +1,11 @@
-## If you want to run locally my project
+## Autor: Samoilă Alexandru, clasa a XII-a F, Colegiul Național de Informatică, Piatra-Neamț
 
-You must have installed: nodejs (I use nodejs v18.16.0), npm (I use v9.6.7), mingw (I use g++ (MinGW.org GCC-6.3.0-1) 6.3.0) and Microsoft visual C++ Redistributable.
-
-- Install this repository on your computer
-- Delete package-lock.json
-- Open terminal and run next commands
+Pentru a rula local proiectul.
+- Se instalează folderul proiectului
+- Se șterge package-lock.json
+- Se deschide Visual studio cu folderul proiectului
+- Se deschide terminalul
+- Se rulează în terminal următoarele comenzi
 
 ```bash
 npm cache clean --force
