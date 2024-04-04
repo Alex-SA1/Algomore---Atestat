@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-- Go on localhost to see the website
+- Website-ul va rula pe localhost
 
 
 
