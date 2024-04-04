@@ -1,0 +1,7 @@
+[
+    {"input": "256", "output": "2 8"},
+    {"input": "12852", "output": "2 2\n3 3\n7 1\n17 1"},
+    {"input": "23", "output": "23 1"},
+    {"input": "49", "output": "7 2"},
+    {"input": "126", "output": "2 1\n3 2\n7 1"}
+]
