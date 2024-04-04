@@ -1,6 +1,6 @@
 ## Autor: Samoilă Alexandru, clasa a XII-a F, Colegiul Național de Informatică, Piatra-Neamț
 
-Pentru a rula local proiectul.
+Pentru a rula local proiectul:
 - Se instalează folderul proiectului
 - Se șterge package-lock.json
 - Se deschide Visual studio cu folderul proiectului
