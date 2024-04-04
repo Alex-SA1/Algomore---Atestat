@@ -3,7 +3,7 @@
 Pentru a rula local proiectul:
 - Se instalează folderul proiectului
 - Se șterge package-lock.json
-- Se deschide Visual studio cu folderul proiectului
+- Se deschide Visual Studio Code cu folderul proiectului
 - Se deschide terminalul
 - Se rulează în terminal următoarele comenzi
 
